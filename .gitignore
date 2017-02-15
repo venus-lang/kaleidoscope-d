@@ -13,6 +13,7 @@
 
 # Executables
 *.exe
+code/toy1/toy1
 
 # DUB
 .dub

@@ -1,0 +1,12 @@
+{
+    "name": "toy1",
+    "authors": [
+        "zhaopuming"
+    ],
+    "description": "Kaleidoscope toy program #1.",
+    "copyright": "Copyright © 2017, zhaopuming",
+    "license": "MIT",
+    "dependencies": {
+        "llvm-d": ">=2.0.1"
+    }
+}
